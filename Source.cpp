@@ -11,7 +11,9 @@ int main() {
 		iSum = iNum1 + iNum2;
 		iNum1 = iNum2;
 		iNum2 = iSum;
-		cout << iNum2 << ";";
+		cout << iNum2 << ";" << endl;
+		cout << iNum2 + 4 << endl;
+		
 	}
 	return 0;
 }
