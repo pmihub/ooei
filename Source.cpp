@@ -13,5 +13,5 @@ int main() {
 		iNum2 = iSum;
 		cout << iNum2 << ";";
 	}
-	
+	return 0;
 }
