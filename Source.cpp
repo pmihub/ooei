@@ -15,5 +15,4 @@ int main() {
 		cout << iNum2 + 4 << endl;
 		
 	}
-	return 0;
 }
